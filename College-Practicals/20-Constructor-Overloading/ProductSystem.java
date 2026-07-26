@@ -41,10 +41,10 @@ class Product{
         System.out.println("Total Products Registered on " + platformName + ": " + productCount);
         System.out.println("---------------------------------------------------------");
     }
-}
 
 
-public class ProductSystem {
+
+
     public static void main(String[] args) {
         System.out.println("--- Starting Flipkart Product Catalog Simulator --- \n");
 
