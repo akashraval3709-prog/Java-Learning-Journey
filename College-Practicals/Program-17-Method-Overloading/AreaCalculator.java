@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class AreaCalculator {
 
-```
+
 static int area(int side) {
     return side * side;
 }
@@ -37,8 +37,6 @@ public static void main(String[] args) {
 
     sc.close();
 }
-```
 
-} aa college
 
-17. Write a java program which shows the use of Methods Overloading. readem ap ane msg
+} 
