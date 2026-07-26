@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ProductSystem {
+class Product{
  
     String productName;
     double price;
