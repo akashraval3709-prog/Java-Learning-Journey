@@ -1,24 +1,24 @@
 # ☕ Java Practical Programs
 
-Welcome to the **Java Practical Programs** collection! This folder contains all the Java practicals from my college syllabus, covering everything from **basic programming concepts** to **advanced object-oriented programming** and **multithreading**.
+Welcome to the **Java Practical Programs** collection! This folder contains Java practical programs from my college syllabus, covering everything from **Core Java fundamentals** to **Object-Oriented Programming**, **Exception Handling**, **Multithreading**, and **Applets**.
 
 ## 📚 Topics Covered
 
-* 🔹 Core Java Fundamentals
-* 🔹 Control Statements & Loops
-* 🔹 Arrays & Strings
-* 🔹 Classes & Objects
-* 🔹 Constructors
-* 🔹 Method Overloading & Overriding
-* 🔹 Inheritance
-* 🔹 Abstract Classes & Interfaces
-* 🔹 Packages
-* 🔹 Exception Handling
-* 🔹 Collections (Vector & Stack)
-* 🔹 Multithreading
-* 🔹 Applets
-* 🔹 Practical Mini Programs
-  
+- 🔹 Core Java Fundamentals
+- 🔹 Control Statements & Loops
+- 🔹 Arrays & Strings
+- 🔹 Classes & Objects
+- 🔹 Constructors
+- 🔹 Method Overloading & Overriding
+- 🔹 Inheritance
+- 🔹 Abstract Classes & Interfaces
+- 🔹 Packages
+- 🔹 Exception Handling
+- 🔹 Collections (Vector & Stack)
+- 🔹 Multithreading
+- 🔹 Applets
+- 🔹 Practical Mini Programs
+
 ## 📝 Practical List
 
 ### 🟢 Basics
@@ -41,15 +41,15 @@ Welcome to the **Java Practical Programs** collection! This folder contains all 
 13. ✅ Student Result System
 14. ✅ Employee Salary Slip
 15. ✅ Static Members
-16. ⏳ Nesting of Methods
-17. ⏳ Method Overloading
-18. ⏳ Default Constructor
-19. ⏳ Parameterized Constructor
-20. ⏳ Constructor Overloading
-21. ⏳ Single Inheritance
-22. ⏳ Multilevel Inheritance
-23. ⏳ Hierarchical Inheritance
-24. ⏳ Method Overriding
+16. ✅ Nesting of Methods
+17. ✅ Method Overloading
+18. ✅ Default Constructor
+19. ✅ Parameterized Constructor
+20. ✅ Constructor Overloading
+21. ✅ Single Inheritance
+22. ✅ Multilevel Inheritance
+23. ✅ Hierarchical Inheritance
+24. ✅ Method Overriding
 25. ⏳ Final Class & Final Method
 26. ⏳ Abstract Class & Abstract Method
 27. ⏳ Interface
@@ -88,6 +88,15 @@ Welcome to the **Java Practical Programs** collection! This folder contains all 
 45. ⏳ Hello Applet
 46. ⏳ Applet Life Cycle
 47. ⏳ Passing Parameters to Applets
-48. ⏳ Graphics Class in Applet---
+48. ⏳ Graphics Class in Applet
 
-⭐ This folder is part of my **Java Learning Journey** and documents my progress through all the practical programs in my college curriculum.
+---
+
+## 📈 Progress
+
+- ✅ Completed: **24 / 48 Practical Programs**
+- ⏳ Remaining: **24 Practical Programs**
+
+---
+
+⭐ This folder is part of my **Java Learning Journey** and documents my progress through all the practical programs included in my college curriculum. Each practical is organized in a separate folder with source code and a dedicated README for easy learning and reference.
