@@ -1,23 +1,24 @@
-# 🔄 Constructor Overloading
+# 🛒 Constructor Overloading - Product Catalog System
 
-This Java program demonstrates **constructor overloading** by creating product objects using different constructors. It also uses static members to keep track of the total number of registered products.
+This Java program demonstrates the concept of **Constructor Overloading** by creating product objects using multiple constructors. It also uses the **`this()` keyword** for constructor chaining and **static members** to keep track of the total number of products.
 
 ## ⚙️ How It Works
 
-1. Creates products using overloaded constructors.
-2. Uses a default category when one is not provided.
-3. Creates another product with a custom category.
-4. Displays product details.
-5. Displays the total number of registered products.
+1. Accepts product details from the user.
+2. Creates the first product using a constructor with **Name** and **Price**.
+3. Automatically assigns the default category **"General"** using constructor chaining.
+4. Creates the second product using an overloaded constructor with **Name**, **Price**, and **Category**.
+5. Displays the details of both products.
+6. Displays the total number of registered products using a static method.
 
 ## 📚 Concepts Used
 
-- Constructor Overloading
-- `this()` Keyword
 - Classes & Objects
+- Constructor Overloading
+- Constructor Chaining (`this()`)
 - Static Variables
 - Static Methods
-- Constructors
 - Scanner Class
 - User Input
+- Methods
 - Console Output
