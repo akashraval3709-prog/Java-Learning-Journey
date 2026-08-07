@@ -50,9 +50,9 @@ Welcome to the **Java Practical Programs** collection! This folder contains Java
 22. ✅ Multilevel Inheritance
 23. ✅ Hierarchical Inheritance
 24. ✅ Method Overriding
-25. ⏳ Final Class & Final Method
-26. ⏳ Abstract Class & Abstract Method
-27. ⏳ Interface
+25. ✅ Final Class & Final Method
+26. ✅ Abstract Class & Abstract Method
+27. ✅ Interface
 28. ⏳ Multiple Interfaces
 29. ⏳ Importing Packages
 
@@ -94,8 +94,8 @@ Welcome to the **Java Practical Programs** collection! This folder contains Java
 
 ## 📈 Progress
 
-- ✅ Completed: **24 / 48 Practical Programs**
-- ⏳ Remaining: **24 Practical Programs**
+- ✅ Completed: **25 / 48 Practical Programs**
+- ⏳ Remaining: **23 Practical Programs**
 
 ---
 
